@@ -1,7 +1,7 @@
 const { File } = require('megajs');
 const fs = require('fs');
 
-var prefix = "JUNE-MD~"; //your prefix same as in config.PREFIX
+var prefix = "PEACE-MD~"; //your prefix same as in config.PREFIX
 var output = "./session/"; //path where the creds.json will save
 
 async function saveCreds(id) {
